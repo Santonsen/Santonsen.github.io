@@ -313,8 +313,7 @@ var profilesKey = 'darksouls3_profiles';
 		f_skulltulas: false,
 		f_items: false,
 		f_upgrades: false,
-		f_masks: false,
-		f_beans: false
+		f_songs: false
             };
     }
 
